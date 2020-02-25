@@ -1,0 +1,4 @@
+total_car_latency: 29452456
+total_compute_latency: 292139260996
+st_score: 29452456
+mt_score: 6949268495933803520

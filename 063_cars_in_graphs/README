@@ -1,0 +1,27 @@
+Thanks for your time to review my code.
+
+Here is a basic introduction of my code, my program will accept two inputs, the
+first one will specify a graph and the second one will specify a list of cars
+(their destination and source). The main focuse of my program is parse these
+two files and use dijkstras algorithm to find the best path from s(ource) to
+d(estiantion) for each car.
+
+Because the traffic condition of each road is dynamic changing, so I will do
+dijkstras for each car once they arrive at a new step, to find out what's the
+best next "node" to go.
+
+All my code is declared in studentinterface.hpp and implemented
+in studentinterface.cpp.
+
+Here is some question I have, will you kindly review them
+while looking through the code:
+
+1. Do you have any recommendation/suggestion for my dijkstras implementation?
+(from the performance viewpoint)
+2. Do you have any recommendation/suggestion for my whole program?
+(from the documentation & code quality viewpoint)
+
+Becasue this is only a course project, the main focuse is correctness, but I think
+in industry area, all correctness, performance, code quality etc. are important.
+Right now, I think I can write the "right" code, but may be not the "best" code
+(performance, quality etc.). Thanks for reading, have a nice day!
