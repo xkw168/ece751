@@ -1,0 +1,10 @@
+graph1.txt:cars1.txt:res1.txt
+graph2.txt:cars2r.txt:res2r.txt
+graph2.txt:cars2s.txt:res2s.txt
+graph2.txt:cars2u.txt:res2u.txt
+graph3.txt:cars3r.txt:res3r.txt
+graph3.txt:cars3s.txt:res3s.txt
+graph3.txt:cars3u.txt:res3u.txt
+graph4.txt:cars4r.txt:res4r.txt
+graph4.txt:cars4s.txt:res4s.txt
+graph4.txt:cars4u.txt:res4u.txt
